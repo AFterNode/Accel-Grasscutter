@@ -17,7 +17,7 @@ public abstract class EventCancellable implements Event, Cancellable {
     }
 
     /**
-     * @see Cancellable.isCancelled
+     * @see Cancellable#isCancelled()
      */
     @Override
     public boolean isCancelled() {
@@ -25,7 +25,7 @@ public abstract class EventCancellable implements Event, Cancellable {
     }
 
     /**
-     * @see Cancellable.setCancelled
+     * @see Cancellable#setCancelled(boolean)
      */
     @Override
     public void setCancelled(boolean state) {
