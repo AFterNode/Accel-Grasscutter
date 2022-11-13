@@ -1,0 +1,8 @@
+{
+  "name": "Accel",
+  "description": "Another plugin api",
+  "version": "1.0",
+  "authors": [ "AFterNode" ],
+
+  "mainClass": "cn.afternode.accel.GCPlugin"
+}

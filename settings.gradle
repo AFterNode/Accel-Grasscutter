@@ -1,0 +1,3 @@
+rootProject.name = 'Accel-GC'
+include 'TestPlugin'
+
